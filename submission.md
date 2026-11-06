@@ -1,3 +1,9 @@
+---
+title: Submission on the Edgecliff-Woollahra State-led Rezoning
+layout: page
+permalink: /
+---
+
 # Submission on the Edgecliff-Woollahra State-led Rezoning
 
 **To:** Department of Planning, Housing and Infrastructure (the Department), Edgecliff-Woollahra Precinct State-led Rezoning
